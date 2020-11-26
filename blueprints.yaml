@@ -1,0 +1,18 @@
+name: Quarakos
+slug: quarakos
+type: theme
+version: 0.1.0
+description: custom theme for caracos.net
+icon: rebel
+author:
+  name: James Packer
+  email: james.packer@caracos.net
+homepage: https://github.com/jamazerto/grav-theme-quarakos
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/jamazerto/grav-theme-quarakos/issues
+readme: https://github.com/jamazerto/grav-theme-quarakos/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

@@ -1,0 +1,47 @@
+#header {
+  background: #402922;
+}
+
+#header a {
+  color: white;
+  font-size: 1.2em;
+}
+
+#header a.active {
+  color: #cf181f !important;
+}
+
+#header a:hover {
+  color: #3C9C03 !important;
+}
+
+a, a:hover {
+  color: #3C9C03;
+}
+
+a:visited {
+  color: #286902;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'noto-sansregular';
+}
+
+body {
+  font-family: 'noto-sansregular';
+}
+
+@font-face {
+    font-family: 'noto-sansregular';
+    src: url('/caraweb/user/themes/quarakos/fonts/notosans-regular-webfont.woff2') format('woff2'),
+         url('/caraweb/user/themes/quarakos/fonts/notosans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'siegfried';
+    src: url('/caraweb/user/themes/quarakos/fonts/siegfried.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
