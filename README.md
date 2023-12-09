@@ -5,3 +5,7 @@ The **Quarakos** Theme is for [Grav CMS](http://github.com/getgrav/grav).  This 
 ## Description
 
 custom theme for caracos.net
+
+## Update
+
+After any updates simply go on the server in themes folder (quarakos) of quark in caracos and git pull.
